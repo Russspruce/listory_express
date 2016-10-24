@@ -4,6 +4,8 @@
   var passport = require('passport');
   var flash = require('connect-flash');
 
+  //Added
+
 
   var morgan = require('morgan');
   var cookieParser = require('cookie-parser');
